@@ -1,0 +1,88 @@
+{
+    "respuestas": [
+        {
+            "id": 0,
+            "respuesta": [
+                "No entiendo tu pregunta",
+                "mmm..&#129300 no entendí la pregunta"
+            ]
+        },
+        {
+            "id": 1,
+            "respuesta": [
+                "Hola",
+                "Que tal",
+                "&#128075"
+            ]
+        },
+        {
+            "id": 2,
+            "respuesta": [
+                "28 años",
+                "Tengo 28 años",
+                "Mi edad es 28"
+            ]
+        },
+        {
+            "id": 3,
+            "respuesta": [
+                "Me gusta el desarrollo Web &#128077;",
+                "Mis pasatiempos, son escuchar Música &#127911;, ver series &#128250; y aprender cosas nuevas &#128187;"
+            ]
+        },
+        {
+            "id": 4,
+            "respuesta": [
+                "Soy ingeniero en informática egresado de la Universidad Alejandro de Humboldt &#127891",
+                "Ingeniería informática, en la Universidad Alejandro de Humboldt"
+            ]
+        },
+        {
+            "id": 5,
+            "respuesta": [
+                "Vivo en Venezuela",
+                "Soy de Venezuela"
+            ]
+        },
+        {
+            "id": 6,
+            "respuesta": [
+                "Realice el curso Desarrollo Web Completo con HTML5, CSS3, JS AJAX PHP y MySQL en Udemy &#128218; &#9997;",
+                "Realice los cursos de HTML, CSS, JavaScript SQL, Python Core en SoloLearn &#128218;",
+                "Tambien, Programming Essentials In Python en Cisco Virtual Academy &#128211;"
+            ]
+        },
+        {
+            "id": 7,
+            "respuesta": [
+                "Trabaje en MERCANTIL BANCO UNIVERSAL C.A por 3 años como Analista de Sistemas",
+                "DIALECT4U cargo Desarrollador jr 6 meses"
+            ]
+        },
+        {
+            "id": 8,
+            "respuesta": [
+                "Mis habilidades incluyen: <ul><li>HTML</li><li>CSS</li><li>JavaScript</li><li>PHP</li><li>Java</li><li>SQL</li><li>Python</li><li>SOAP</li><li>REST</li><li>Git</li></ul>"
+            ]
+        },
+        {
+            "id": 9,
+            "respuesta": [
+                "Contantame al correo: josevmirt@gmail.com o<br> <a href='https://www.linkedin.com/in/j-villegas/'target='_blank'>Visita mi perfil de linkedIn!</a>"
+            ]
+        },
+        {
+            "id": 10,
+            "respuesta": [
+                "José Ramón Villegas Mirt"
+            ]
+        },
+        {
+            "id": 11,
+            "respuesta": [
+                "Una vez más no logro resolver tus dudas. &#128533;",
+                "Por ahora estoy entrenado para brindar Información de: &#128071;<ul><li>Edad</li><li>Lugar donde vivo</li><li>Experiencia laboral</li><li>Cursos Realizados</li><li>Habilidades</li><li>Pasatiempos</li><li>Estudios</li><li>Contacto</li></ul>"
+            ]
+        }
+    ]
+}
