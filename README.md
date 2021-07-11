@@ -3,7 +3,7 @@
 ## Descripción 📋
 
 
-El Proyecto es un en **Chat Bot** simple que responde varias preguntas. Esto se programó mediante el uso de **Expresiones Eegulares** en **JavaScript**.
+El Proyecto es un **Chat Bot** simple que responde varias preguntas. Esto se programó mediante el uso de **Expresiones Eegulares** en **JavaScript**.
 
 ![](img/Capturachat.PNG)
 
